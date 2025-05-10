@@ -1,0 +1,4 @@
+name: MinecraftPlayerAPI
+main: com.example.mcplayerapi.MinecraftPlayerAPI
+version: 1.0
+api-version: 1.13
