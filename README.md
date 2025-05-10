@@ -1,0 +1,2 @@
+# MinecraftPlayerAPI
+mcplayerapiplugin
